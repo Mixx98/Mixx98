@@ -1,11 +1,11 @@
 ## Hello World!!
 
-```
+
 #include <stdio.h>
 
 typedef struct Project {
   char type[9]; //Team or Personal
-  char url[20]; //Github link
+  char url[70]; //Github link
 }P;
 
 int main()
@@ -22,4 +22,4 @@ int main()
   
   return 0;
 }
-```
+
