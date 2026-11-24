@@ -2,11 +2,10 @@
 
 # Hello World!! 👋
 
-### 손끝의 움직임에 반응하는 웹을 만드는 개발자, **윤현수**입니다
+### 아이디어를 실험하는 개발자, **윤현수**입니다
 
-센서로 세상을 읽던 임베디드에서 출발해, 지금은 **소리와 움직임으로 반응하는 웹**을 만듭니다.<br/>
-최근에는 Web Audio API로 악기 소리를 직접 합성하는 인터랙티브 음악 웹 **Mouvement**를<br/>
-버전 관리·테스트·모바일 대응까지 챙기며 다듬고 있어요.
+하드웨어, IoT, 웹, AI까지 장르를 넘나들며 프로젝트를 만들어요.<br/>
+"이거 되지 않을까?"라는 생각이 들면, 작게라도 직접 만들어서 확인하는 걸 좋아합니다.
 
 <a href="https://mixx98.github.io/Mouvement/"><img src="https://img.shields.io/badge/Now_Playing-Mouvement-7C4DFF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://mixx98.github.io/Time_to_Color/"><img src="https://img.shields.io/badge/Profile_Site-Time_to_Color-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
