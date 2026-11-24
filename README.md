@@ -48,28 +48,30 @@
 > 마우스로 화면을 지휘하거나 글을 쓰면 음악이 되는 웹사이트. 14가지 음색과 8마디마다 바뀌는 BGM을 **Web Audio API로 직접 합성**합니다.<br/>
 > `JavaScript` `Web Audio API` `GitHub Pages` · [🔗 연주하러 가기](https://mixx98.github.io/Mouvement/)
 
+<sub>👤 개인 프로젝트 · 👥 팀 프로젝트</sub>
+
 ### 🌐 Web
 
-| 프로젝트 | 소개 | 기술 | 구분 |
-| :-- | :-- | :-- | :--: |
-| 🎨 **[Time to Color](https://github.com/Mixx98/Time_to_Color)** | 테마 색을 바꿀 수 있는 개인 프로필 사이트 · [🔗 바로가기](https://mixx98.github.io/Time_to_Color/) | HTML · CSS · JavaScript | 개인 |
-| 🍷 **[BottleShop](https://github.com/Mixx98/BottleShop)** | 와인·치즈 쇼핑몰. 프론트엔드에서 **관리자·회원가입·로그인** 담당 | React · Node.js · Express · MongoDB | 팀 |
+| 프로젝트 | 소개 | 기술 |
+| :-- | :-- | :-- |
+| 🎨 **[Time to Color](https://github.com/Mixx98/Time_to_Color)** 👤 | 테마 색을 바꿀 수 있는 개인 프로필 사이트 · [🔗 바로가기](https://mixx98.github.io/Time_to_Color/) | HTML · CSS · JavaScript |
+| 🍷 **[BottleShop](https://github.com/Mixx98/BottleShop)** 👥 | 와인·치즈 쇼핑몰. 프론트엔드에서 **관리자·회원가입·로그인** 담당 | React · Node.js · Express · MongoDB |
 
 ### 🤖 AI
 
-| 프로젝트 | 소개 | 기술 | 구분 |
-| :-- | :-- | :-- | :--: |
-| 🎙 **[VoiceGPT](https://github.com/Mixx98/VoiceGPT)** | 말로 묻고 음성으로 답을 듣는 ChatGPT 음성 비서 (STT → GPT → TTS) | Python · OpenAI API · SpeechRecognition · gTTS | 개인 |
+| 프로젝트 | 소개 | 기술 |
+| :-- | :-- | :-- |
+| 🎙 **[VoiceGPT](https://github.com/Mixx98/VoiceGPT)** 👤 | 말로 묻고 음성으로 답을 듣는 ChatGPT 음성 비서 (STT → GPT → TTS) | Python · OpenAI API · SpeechRecognition · gTTS |
 
 ### 🔌 Embedded / IoT
 
-| 프로젝트 | 소개 | 기술 | 구분 |
-| :-- | :-- | :-- | :--: |
-| 🌱 **[SmartFarm](https://github.com/Mixx98/SmartFarm)** | 온습도 센서 값을 MQTT로 전송하는 스마트팜 디바이스 | ESP32 · PlatformIO · DHT · MQTT | 개인 |
-| 🚗 **[자율주행 RC카](https://github.com/Mixx98/A-self-driving-car-Project)** | GPS와 라이다 센서로 장애물을 피해 목적지까지 주행 | Arduino · YDLidar · GPS · App Inventor | 팀 |
-| 🛴 **[전동킥보드 후방센서](https://github.com/Mixx98/Rear-Sensor-ver.Electric-Kickboard-)** | 초음파 센서로 뒤에서 다가오는 물체를 감지해 알림 | Arduino · 초음파 센서 | 팀 |
-| 🧴 **[Sunblock](https://github.com/Mixx98/Sunblock)** | 얼굴 면적을 계산해 적정량의 선크림을 짜주는 기계 | Arduino · Python · Firebase · App Inventor | 팀 |
-| 🥊 **[Punch Game](https://github.com/Mixx98/Punch-Game)** | 압력 센서로 펀치 세기를 재 포인트를 차감하는 게임기 | C · ATmega128 | 팀 |
+| 프로젝트 | 소개 | 기술 |
+| :-- | :-- | :-- |
+| 🌱 **[SmartFarm](https://github.com/Mixx98/SmartFarm)** 👤 | 온습도 센서 값을 MQTT로 전송하는 스마트팜 디바이스 | ESP32 · PlatformIO · DHT · MQTT |
+| 🚗 **[자율주행 RC카](https://github.com/Mixx98/A-self-driving-car-Project)** 👥 | GPS와 라이다 센서로 장애물을 피해 목적지까지 주행 | Arduino · YDLidar · GPS · App Inventor |
+| 🛴 **[전동킥보드 후방센서](https://github.com/Mixx98/Rear-Sensor-ver.Electric-Kickboard-)** 👥 | 초음파 센서로 뒤에서 다가오는 물체를 감지해 알림 | Arduino · 초음파 센서 |
+| 🧴 **[Sunblock](https://github.com/Mixx98/Sunblock)** 👥 | 얼굴 면적을 계산해 적정량의 선크림을 짜주는 기계 | Arduino · Python · Firebase · App Inventor |
+| 🥊 **[Punch Game](https://github.com/Mixx98/Punch-Game)** 👥 | 압력 센서로 펀치 세기를 재 포인트를 차감하는 게임기 | C · ATmega128 |
 
 <details>
 <summary><b>🧩 공부하며 만든 작은 프로젝트들</b></summary>
