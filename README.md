@@ -124,35 +124,6 @@
 
 <br/>
 
-<details>
-<summary><b>💾 예전 README 보기 (C 코드 버전)</b></summary>
-
-```c
-#include <stdio.h>
-
-typedef struct Project {
-    char type[9];  // Team or Personal
-    char url[70];  // Github link
-} P;
-
-int main()
-{
-    char language[] = "C/C++, Python, JAVA, R, Linux, HTML, CSS, JavaScript";
-    char profileSite[] = "https://mixx98.github.io/Time_to_Color/";
-
-    P selfDrivingCar = {"Team",     "https://github.com/Mixx98/A-self-driving-car-Project/"};
-    P rearSensor     = {"Team",     "https://github.com/Mixx98/Rear-Sensor-ver.Electric-Kickboard-/"};
-    P sunblock       = {"Team",     "https://github.com/Mixx98/Sunblock/"};
-    P punchGame      = {"Team",     "https://github.com/Mixx98/Punch-Game/"};
-    P timeToColor    = {"Personal", "https://github.com/Mixx98/Time_to_Color/"};
-    P bottleShop     = {"Team",     "https://github.com/Mixx98/BottleShop/"};
-
-    return 0;
-}
-```
-
-</details>
-
 <div align="center">
 
 <br/>
