@@ -7,20 +7,21 @@
 하드웨어, IoT, 웹, AI까지 장르를 넘나들며 프로젝트를 만들어요.<br/>
 "이거 되지 않을까?"라는 생각이 들면, 작게라도 직접 만들어서 확인하는 걸 좋아합니다.
 
-<a href="https://mixx98.github.io/Mouvement/"><img src="https://img.shields.io/badge/Now_Playing-Mouvement-7C4DFF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="https://mixx98.github.io/Mouvement/"><img src="https://img.shields.io/badge/Latest_Project-Mouvement-7C4DFF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://mixx98.github.io/Time_to_Color/"><img src="https://img.shields.io/badge/Profile_Site-Time_to_Color-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## 🧭 걸어온 길
+## 🧪 이런 것들을 실험해 왔어요
 
-| 시기 | 관심사 | 대표 프로젝트 |
+| 분야 | 실험한 것 | 프로젝트 |
 | :-- | :-- | :-- |
-| **2022** | 🔌 센서와 마이크로컨트롤러로 세상을 읽다 | 자율주행 RC카 · 전동킥보드 후방센서 · Punch Game |
-| **2023** | 🌐 데이터를 웹과 AI로 연결하다 | BottleShop · VoiceGPT · SmartFarm · Sunblock |
-| **2026~** | 🎵 움직임과 소리로 반응하는 웹을 만들다 | **Mouvement** |
+| 🔌 **하드웨어** | 라이다·GPS·초음파·압력 센서로 움직이고 반응하는 기계 | 자율주행 RC카 · 전동킥보드 후방센서 · Punch Game |
+| 📡 **IoT** | 센서 데이터를 클라우드로 보내고 앱으로 제어하기 | SmartFarm · Sunblock |
+| 🌐 **웹** | 쇼핑몰부터 마우스·글자 입력에 반응하는 인터랙티브 웹까지 | Mouvement · BottleShop · Time to Color |
+| 🤖 **AI** | 말로 묻고 음성으로 답을 듣는 대화형 비서 | VoiceGPT |
 
 <br/>
 
