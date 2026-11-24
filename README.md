@@ -2,14 +2,26 @@
 
 # Hello World!! 👋
 
-### 하드웨어와 웹을 잇는 개발자, **윤현수**입니다
+### 손끝의 움직임에 반응하는 웹을 만드는 개발자, **윤현수**입니다
 
-센서로 세상을 읽고, 웹으로 보여주는 걸 좋아합니다.<br/>
-아두이노·라이다·GPS 같은 임베디드 프로젝트부터 React·Node.js 웹 서비스까지 만들어 왔어요.
+센서로 세상을 읽던 임베디드에서 출발해, 지금은 브라우저 안에서 **소리와 움직임으로 반응하는 웹**을 만듭니다.<br/>
+최근에는 Web Audio API로 악기 소리를 직접 합성하는 인터랙티브 음악 웹 **Mouvement**를<br/>
+버전 관리·테스트·모바일 대응까지 챙기며 다듬고 있어요.
 
+<a href="https://mixx98.github.io/Mouvement/"><img src="https://img.shields.io/badge/Now_Playing-Mouvement-7C4DFF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://mixx98.github.io/Time_to_Color/"><img src="https://img.shields.io/badge/Profile_Site-Time_to_Color-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
+
+<br/>
+
+## 🧭 걸어온 길
+
+| 시기 | 관심사 | 대표 프로젝트 |
+| :-- | :-- | :-- |
+| **2022** | 🔌 센서와 마이크로컨트롤러로 세상을 읽다 | 자율주행 RC카 · 전동킥보드 후방센서 · Punch Game |
+| **2023** | 🌐 데이터를 웹과 AI로 연결하다 | BottleShop · VoiceGPT · SmartFarm · Sunblock |
+| **2026 – 지금** | 🎵 움직임과 소리로 반응하는 웹을 만들다 | **Mouvement** |
 
 <br/>
 
@@ -26,6 +38,7 @@
 **Web**<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Web_Audio_API-7C4DFF?style=flat-square&logo=audiomack&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -37,6 +50,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
 
 <br/>
 
@@ -45,7 +60,14 @@
 ### ✨ Featured
 
 > #### 🎵 [Mouvement](https://github.com/Mixx98/Mouvement) — 움직임이 음악이 되는 순간
-> 마우스로 화면을 지휘하거나 글을 쓰면 음악이 되는 웹사이트. 14가지 음색과 8마디마다 바뀌는 BGM을 **Web Audio API로 직접 합성**합니다.<br/>
+> 마우스·터치로 화면을 지휘하거나 글을 쓰면 그대로 선율이 되는 웹사이트예요. 악보를 몰라도 어울리는 음만 나도록 설계했어요.
+>
+> - 🎹 피아노부터 디스토션 기타까지 **14가지 음색을 Web Audio API로 직접 합성** (녹음 파일 0개)
+> - 🎼 8마디마다 코드 진행·리듬이 바뀌는 BGM, 연주를 반주에 맞춰 주는 음정 보정
+> - ✍️ 글자 입력이 선율이 되는 '글로 연주', 키보드·멀티터치 최대 6음 화음
+> - 📱 PC·모바일 대응, 첫 방문 사용 안내, 키보드 접근성
+> - 🧪 회귀 테스트와 [CHANGELOG](https://github.com/Mixx98/Mouvement/blob/main/CHANGELOG.md) 기반 버전 관리 (현재 v1.4.0)
+>
 > `JavaScript` `Web Audio API` `GitHub Pages` · [🔗 연주하러 가기](https://mixx98.github.io/Mouvement/)
 
 <sub>👤 개인 프로젝트 · 👥 팀 프로젝트</sub>
