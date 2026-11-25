@@ -4,8 +4,7 @@
 
 ### 아이디어를 실험하는 개발자, **윤현수**입니다
 
-하드웨어, IoT, 웹, AI까지 장르를 넘나들며 프로젝트를 만들어요.<br/>
-"이거 되지 않을까?"라는 생각이 들면, 작게라도 직접 만들어서 확인하는 걸 좋아합니다.
+움직임을 음악으로 바꾸는 웹부터 센서로 환경을 읽는 IoT 기기까지, 아이디어를 작게 만들어 직접 확인합니다.
 
 <a href="https://mixx98.github.io/Mouvement/"><img src="https://img.shields.io/badge/Latest_Project-Mouvement-7C4DFF?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 <a href="https://mixx98.github.io/Time_to_Color/"><img src="https://img.shields.io/badge/Profile_Site-Time_to_Color-FF6F61?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
@@ -76,7 +75,7 @@
 
 | 프로젝트 | 소개 | 기술 |
 | :-- | :-- | :-- |
-| 🎨 **[Time to Color](https://github.com/Mixx98/Time_to_Color)** 👤 | 테마 색을 바꿀 수 있는 개인 프로필 사이트 · [🔗 바로가기](https://mixx98.github.io/Time_to_Color/) | HTML · CSS · JavaScript |
+| 🎨 **[Time to Color](https://github.com/Mixx98/Time_to_Color)** 👤 | 대표 프로젝트와 활동을 소개하고, 현지 시간이나 입력한 시각을 색으로 보여주는 포트폴리오 · [🔗 바로가기](https://mixx98.github.io/Time_to_Color/) | HTML · CSS · JavaScript |
 | 🍷 **[BottleShop](https://github.com/Mixx98/BottleShop)** 👥 | 와인·치즈 쇼핑몰. 프론트엔드에서 **관리자·회원가입·로그인** 담당 | React · Node.js · Express · MongoDB |
 
 ### 🤖 AI
@@ -89,8 +88,8 @@
 
 | 프로젝트 | 소개 | 기술 |
 | :-- | :-- | :-- |
-| 🌱 **[SmartFarm](https://github.com/Mixx98/SmartFarm)** 👤 | 온습도 센서 값을 MQTT로 전송하는 스마트팜 디바이스 | ESP32 · PlatformIO · DHT · MQTT |
-| 🚗 **[자율주행 RC카](https://github.com/Mixx98/A-self-driving-car-Project)** 👥 | GPS와 라이다 센서로 장애물을 피해 목적지까지 주행 | Arduino · YDLidar · GPS · App Inventor |
+| 🌱 **[SmartFarm](https://github.com/Mixx98/SmartFarm)** 👤 | 온습도·조도·토양 수분을 MQTT로 전송하고 조명과 펌프를 원격 제어하는 스마트팜 디바이스 | ESP32 · PlatformIO · FreeRTOS · MQTT |
+| 🚗 **[자율주행 RC카](https://github.com/Mixx98/A-self-driving-car-Project)** 👥 | GPS와 라이다 센서로 장애물을 피해 목적지까지 주행 | ESP32 · YDLidar · GPS · App Inventor |
 | 🛴 **[전동킥보드 후방센서](https://github.com/Mixx98/Rear-Sensor-ver.Electric-Kickboard-)** 👥 | 초음파 센서로 뒤에서 다가오는 물체를 감지해 알림 | Arduino · 초음파 센서 |
 | 🧴 **[Sunblock](https://github.com/Mixx98/Sunblock)** 👥 | 얼굴 면적을 계산해 적정량의 선크림을 짜주는 기계 | Arduino · Python · Firebase · App Inventor |
 | 🥊 **[Punch Game](https://github.com/Mixx98/Punch-Game)** 👥 | 압력 센서로 펀치 세기를 재 포인트를 차감하는 게임기 | C · ATmega128 |
